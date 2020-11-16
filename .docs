@@ -1,0 +1,18 @@
+Things We will need.
+
+    1. Title
+    2. 3X3 grid
+        - each cell should be clickable
+        - win conditions
+        - draw conditions
+        - lose conditions
+        - pause game activity on user-end event
+
+    3. display status
+        - Who's turn is it?
+        - Who won?
+        - has the game started? is it paused?
+
+    4. Restart button
+        -resets the grid
+        -resets player turn. always start on X
